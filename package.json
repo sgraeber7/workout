@@ -8,12 +8,31 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@gregfrench/react-native-wheel-picker": "^1.2.16",
+    "@react-native-firebase/app": "^12.7.5",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "@reduxjs/toolkit": "^1.6.1",
+    "autoprefixer": "^10.0.2",
+    "css": "^3.0.0",
+    "css-to-react-native": "^3.0.0",
+    "dotenv": "^10.0.0",
     "expo": "~42.0.1",
+    "expo-constants": "~11.0.1",
     "expo-status-bar": "~1.0.4",
-    "react": "16.13.1",
+    "firebase": "8.2.3",
+    "postcss": "^8.3.6",
+    "react": "^16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-elements": "^3.4.2",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "^0.13.18",
+    "react-redux": "^7.2.4",
+    "tailwind-react-native-classnames": "^1.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
